@@ -2,7 +2,7 @@
 # Inspirational-Quote-CRUD
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://inspirational-quote-crud.herokuapp.com
 
 ![alt tag](https://media.giphy.com/media/uarFQ4KBArIyugn7xd/giphy.gif)
 
