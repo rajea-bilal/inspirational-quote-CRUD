@@ -1,6 +1,6 @@
 
 # Inspirational-Quote-CRUD
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A fullstack Quotes app that incorporates CRUD functionality and allows users to add quotes of their favourite authors to the page. Users can add quotes by using the input field, delete quotes by clicking the bin icon and update quotes by clicking on the heart icon. The counter goes up by 1, each time the user likes the quote. 
 
 **Link to project:** https://inspirational-quote-crud.herokuapp.com
 
