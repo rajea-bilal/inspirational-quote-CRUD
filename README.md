@@ -10,14 +10,18 @@ A fullstack Quotes app that incorporates CRUD functionality and allows users to 
 
 **Tech used:** Node JS, EJS, MongoDB, Express
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Full stack habit-tracking app built with Node.js, Express, MongoDB and Tailwind. Users can create new tasks, mark them complete and delete them. 
 
 ## Optimizations
 *(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+- Add authentication to the app so users can create their own personalised accounts and be able to track their tasks individually.
+- Build a search function that will bring tasks from a particular date in the past.
+- Feature an inspirational quote that changes every day.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+- I learnt Tailwind for this project so I would consider that the biggest takeaway.
+- Finally, understand how a simple CRUD app works behind the scenes and how bigger applications are just bigger lego blocks put together.
+- Gave me the confidence to build again :)
 
