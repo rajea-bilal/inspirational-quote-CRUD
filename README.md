@@ -12,7 +12,7 @@ A fullstack Quotes app that incorporates CRUD functionality and allows users to 
 
 
 ## Optimizations
-*(optional)*
+
 
 - Build a sharing feature that enables users to share their favourite quote on social media. 
 - A search function that can filter quotes by a certain author. 
